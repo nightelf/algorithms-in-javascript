@@ -19,7 +19,8 @@ apart.
 
 | Family | Algorithm | Complexity |
 | --- | --- | --- |
-| [Sliding Window](./sliding-window) | [`longestUniqueSubstringLength`](./sliding-window/longest-unique-substring.ts) — longest substring without repeating characters | O(n) time, O(min(n, k)) space |
+| [Sliding Window](./sliding-window) | [`longestUniqueSubstring`](./sliding-window/longest-unique-substring.ts) — longest substring without repeating characters, leftmost on ties | O(n) time, O(min(n, k)) space |
+| [Sliding Window](./sliding-window) | [`longestUniqueSubstringLength`](./sliding-window/longest-unique-substring.ts) — its length, delegating to the above | O(n) time, O(min(n, k)) space |
 
 ## Getting started
 
