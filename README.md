@@ -21,6 +21,8 @@ apart.
 | --- | --- | --- |
 | [Sliding Window](./sliding-window) | [`longestUniqueSubstring`](./sliding-window/longest-unique-substring.ts) — longest substring without repeating characters, leftmost on ties | O(n) time, O(min(n, k)) space |
 | [Sliding Window](./sliding-window) | [`longestUniqueSubstringLength`](./sliding-window/longest-unique-substring.ts) — its length, delegating to the above | O(n) time, O(min(n, k)) space |
+| [Hash Map](./hash-map) | [`twoSumAll`](./hash-map/two-sum.ts) — all distinct value pairs summing to a target | O(n) time, O(d) space |
+| [Hash Map](./hash-map) | [`twoSumFirst`](./hash-map/two-sum.ts) — the first pair summing to a target, or null, short-circuiting | O(k) to the first hit, O(n) worst case |
 
 ## Getting started
 
