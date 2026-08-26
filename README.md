@@ -24,6 +24,8 @@ apart.
 | [Hash Map](./hash-map) | [`twoSumAll`](./hash-map/two-sum.ts) — all distinct value pairs summing to a target | O(n) time, O(d) space |
 | [Hash Map](./hash-map) | [`twoSumFirst`](./hash-map/two-sum.ts) — the first pair summing to a target, or null, short-circuiting | O(k) to the first hit, O(n) worst case |
 | [Stack](./stack) | [`hasValidEnclosingPairs`](./stack/valid-enclosing-pairs.ts) — whether nested delimiters are balanced and correctly ordered | O(n) time, O(n) space |
+| [Math](./math) | [`findMissingSequentialNumber`](./math/missingSequentialNumber.ts) — the absent value in a run of consecutive integers | O(n) time, O(1) space |
+| [Math](./math) | [`isValidSequentialList`](./math/missingSequentialNumber.ts) — whether a list satisfies that run's contract | O(n) time, O(n) space |
 
 ## Getting started
 
