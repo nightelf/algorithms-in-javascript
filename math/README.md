@@ -30,9 +30,9 @@ a pass.
 > ([LeetCode 268](https://leetcode.com/problems/missing-number/), shifted from
 > a zero-based run to a one-based one.)
 
-**Files:** [`missingSequentialNumber.js`](./missingSequentialNumber.js) ·
-[`missingSequentialNumber.ts`](./missingSequentialNumber.ts) ·
-[`missingSequentialNumber.test.ts`](./missingSequentialNumber.test.ts)
+**Files:** [`missing-sequential-number.js`](./missing-sequential-number.js) ·
+[`missing-sequential-number.ts`](./missing-sequential-number.ts) ·
+[`missing-sequential-number.test.ts`](./missing-sequential-number.test.ts)
 
 ```js
 findMissingSequentialNumber([1, 2, 4, 5]); // 3

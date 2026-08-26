@@ -3,11 +3,11 @@ import { describe, it, expect } from "vitest";
 import {
   findMissingSequentialNumber as jsFind,
   isValidSequentialList as jsIsValid,
-} from "./missingSequentialNumber.js";
+} from "./missing-sequential-number.js";
 import {
   findMissingSequentialNumber as tsFind,
   isValidSequentialList as tsIsValid,
-} from "./missingSequentialNumber.ts";
+} from "./missing-sequential-number.ts";
 
 type Finder = (list: number[]) => number;
 type Validator = (list: unknown) => boolean;
